@@ -2,6 +2,7 @@ Android注入框架，使用注解实现，目前只支持View的注入，之后
 
 
 public class TestSharpInjectActivity extends Activity {
+   
     // 注入View
     @Bind(R.id.btn_test)
     public Button mBtnTest;
