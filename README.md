@@ -1,9 +1,5 @@
 Android注入框架，使用注解实现，目前只支持View的注入，之后会加入事件注入
 
-使用方法：
-/**
- * Created by jiangliu on 2015/12/23.
- */
 public class TestSharpInjectActivity extends Activity {
 
     // 注入View
